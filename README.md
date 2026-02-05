@@ -44,7 +44,7 @@ What-If Scenarios:
 
 ## Built With
 
-- Python 3.x
+- Python 3.14.2
 - Mathematical operations for compound interest
 - Conditional logic for personalized advice
 
